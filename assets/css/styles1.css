@@ -17,10 +17,8 @@
     margin: 60px;
 
 }
-/*.select{
-    border: 2px solid red;
-    opacity: 1;
-}
-.noSelect{
-    border: 0.5;
+.enlaces{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
 }
